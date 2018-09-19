@@ -1,5 +1,6 @@
 <?php
 /**
+* Estonian translation by phpBBestonia.eu <https://www.phpbbestonia.eu>
 *
 * @package phpBB Extension - Total Active Extensions
 * @copyright (c) 2015 dmzx - http://www.dmzx-web.net
@@ -37,5 +38,5 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'TOTAL_EXT'				 => 'Active extensions',
+	'TOTAL_EXT'				 => 'Aktiivsed (lubatud) laiendused',
 ));
